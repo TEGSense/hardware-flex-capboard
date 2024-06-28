@@ -3,6 +3,8 @@
 This is a capacitor board designed to minimize the footprint of the capacitors used for the TEGSense device.
 It is meant to be paired with the [flex hardware](https://github.com/TEGSense/hardware-flex-capboard).
 
+![CAD rendering](flex-cap-cad.png)
+
 ## License
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
